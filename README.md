@@ -19,7 +19,18 @@
 14. mendefinisikan nilai b
 15. mencetak nilai hasil variable a+b
 ![2022-10-26 (12)](https://user-images.githubusercontent.com/115615983/197924399-54f502d9-fce2-4fc2-8a37-bfb9e93a4324.png)
+16. Menjalankan idle
+17. input nilai variable
+a=input("masukan nilai a:") b=input("masukan nilai b:")
+
+cetak nilai variable
+print("Variable a=",a) print("Variable b=",b)
+
+cetak hasil operasi kedua variable dengan String format
+print("Hasil penggabung {1}&{0}=%d".format(a,b) %(a&b))
+
+konversi nilai variable
+a=int(a) b=int(b) print("Hasil penjumlahan {1}+{0}=%d".format(a,b) %(a+b)) print("Hasil pembagian {1}/{0}=%d".format(a,b) %(a/b))
 ![2022-10-26 (13)](https://user-images.githubusercontent.com/115615983/197924403-57d587bf-14dd-4e11-bdcc-9895409ed3ff.png)
 ![2022-10-26 (14)](https://user-images.githubusercontent.com/115615983/197924408-172d987b-ab33-4b52-970f-960507287d10.png)
-![2022-10-26](https://user-images.githubusercontent.com/115615983/197924419-a312edae-f355-4c7c-99f3-1e849d344739.png)
-![Screenshot (1)](https://user-images.githubusercontent.com/115615983/197924428-969ce9d3-96bc-42ab-b976-17107fa18136.png)
+
