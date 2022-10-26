@@ -34,3 +34,6 @@ a=int(a) b=int(b) print("Hasil penjumlahan {1}+{0}=%d".format(a,b) %(a+b)) print
 ![2022-10-26 (13)](https://user-images.githubusercontent.com/115615983/197924403-57d587bf-14dd-4e11-bdcc-9895409ed3ff.png)
 ![2022-10-26 (14)](https://user-images.githubusercontent.com/115615983/197924408-172d987b-ab33-4b52-970f-960507287d10.png)
 
+18. setelah selesai di edit lakukan push ke github
+![11](https://user-images.githubusercontent.com/115615983/197927188-973e470e-e6a9-41dc-8f97-d4f19449e5d4.png)
+
